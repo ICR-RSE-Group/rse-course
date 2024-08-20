@@ -1,6 +1,6 @@
 # Git & GitHub
 
-Check whether you have installed already.
+Check whether you have installed already. 
 
 ```bash
 git --version
